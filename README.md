@@ -1,7 +1,7 @@
-#🌐 Web-Projects
+🌐 #Web-Projects
 This repository is a growing collection of various front-end applications and user interface designs developed by Roverang. The projects demonstrate fundamental skills using core web development technologies: HTML, CSS, and JavaScript. This collection serves as a showcase of beginner and intermediate web projects.
 
-Projects Included:
+**Projects Included:**
 Basic Todo
 
 A simple, foundational application for managing daily tasks.
